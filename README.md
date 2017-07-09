@@ -1,0 +1,1 @@
+# kube-discovery-amd64
